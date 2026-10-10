@@ -1,0 +1,18 @@
+AURA FINAL MT5 ALL-MARKET SETUP
+Source snapshot 751d354 / published f85b97f1.
+
+1. Extract all into C:\AURA. Read docs/AURA_Prime_Final_All_Market_MT5_Setup.pdf
+2. AURA_PRIME.cmd option 1 -> Setup.
+3. CONFIGURE_AURA.cmd -> private .env.local credentials.
+4. Open MT5 desktop on DEMO.
+5. CHECK_AURA_MARKETS.cmd -> read-only inventory.
+6. AURA_PRIME.cmd option 2 -> Start dashboard.
+7. Live Desk MT5 scan scope: All or priority budget.
+8. Check data/guards then explicitly START DEMO.
+
+Gold XAUUSDm, USOIL/oil aliases, BTC and FX/indices/metals/other actual broker contracts.
+Only broker-discovered eligible contracts included; missing products not invented.
+RUN_MT5_AURA_ALL_MARKETS.cmd is separate self-evolving PAPER research only.
+Offline student training lesson included; no trained live-approved model.
+No GitHub needed for basic setup. Initial dependencies need internet.
+Windows MT5 execution not certified here; live money remains locked.
